@@ -1,4 +1,4 @@
-package org.example.example.dtos;
+package dat.dtos;
 
 import lombok.*;
 @Data

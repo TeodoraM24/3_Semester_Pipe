@@ -1,4 +1,4 @@
-package org.example.example.config;
+package dat.config;
 
 
 import jakarta.persistence.EntityManagerFactory;

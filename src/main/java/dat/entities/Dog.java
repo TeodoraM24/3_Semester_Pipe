@@ -1,9 +1,9 @@
-package org.example.example.entities;
+package dat.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import lombok.*;
-import org.example.example.dtos.DogDTO;
+import dat.dtos.DogDTO;
 
 @Entity
 @Data
