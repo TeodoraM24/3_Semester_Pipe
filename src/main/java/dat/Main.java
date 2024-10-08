@@ -1,7 +1,7 @@
-package org.example.example;
+package dat;
 
 import io.javalin.Javalin;
-import org.example.example.controllers.DogController;
+import dat.controllers.DogController;
 
 public class Main {
     public static void main(String[] args) {

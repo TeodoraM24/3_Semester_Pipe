@@ -1,7 +1,7 @@
-package org.example.example.controllers;
+package dat.controllers;
 
 import io.javalin.http.Context;
-import org.example.example.dtos.DogDTO;
+import dat.dtos.DogDTO;
 
 import java.util.ArrayList;
 import java.util.HashMap;
